@@ -112,7 +112,7 @@ export default function AdminHome() {
     <div className="space-y-8">
       <div>
         <h1 className="text-3xl font-bold mb-2">Welcome back, Admin</h1>
-        <p className="text-muted-foreground">Here's what's happening with your job listings today.</p>
+        <p className="text-muted-foreground">Here&apos;s what&apos;s happening with your job listings today.</p>
       </div>
 
       {/* Stats */}

@@ -44,7 +44,7 @@ export default function AdminLayout({
             <div className="flex items-center flex-shrink-0 px-4 mb-8">
               <Link href="/admin/home" className="flex items-center">
                 <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/college-placement-logo-ImbT6AHQZFSM1uBfvqqonQENGLlUPA.png"
+                    src="/college-placement-logo.png"
                     alt="NextHire"
                     width={120}
                     height={40}
@@ -91,7 +91,7 @@ export default function AdminLayout({
           <div className="flex items-center justify-between h-16 px-4">
             <Link href="/admin/home" className="flex items-center">
               <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/college-placement-logo-ImbT6AHQZFSM1uBfvqqonQENGLlUPA.png"
+                  src="/college-placement-logo.png"
                   alt="NextHire"
                   width={120}
                   height={40}
